@@ -1,16 +1,25 @@
-# travel_app
+# Let's Travel
+Visiting a new country or city definitely requires a travel guide. In the world full of technologies, making phone calls or using physical maps to explore new areas is a quite outdated. That said, presenting the UI for a Flutter app that will help you when you will be travelling.
 
-A new Flutter project.
+## Clone the repository
+```
+https://github.com/pratik97179/travel_app_ui.git
+```
 
-## Getting Started
+## Get dependencies
 
-This project is a starting point for a Flutter application.
+```
+flutter pub get
+```
 
-A few resources to get you started if this is your first Flutter project:
+## Packages Used
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+```
+  font_awesome_flutter       : ^9.1.0
+```
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Screenshots
+
+![Home](/img/flutter_01.png)
+![Home](/img/flutter_02.png)
+![Home](/img/flutter_03.png)
